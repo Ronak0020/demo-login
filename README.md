@@ -1,5 +1,5 @@
 # Demo Login system GUI
-This project was made just as a demo testing project to test the python library *tkinter* [customtkinter has been used]. It took approx 15 minutes to make it so don't expect too much out of it :p
+This project was made just as a demo testing project to test the python library ***tkinter*** [**customtkinter** has been used]. It took approx 15 minutes to make it so don't expect too much out of it :p
 
 # Key Features
 - User Friendly UI
@@ -9,10 +9,14 @@ This project was made just as a demo testing project to test the python library 
 - A HOME button to go back to the main screen frame
 
 # How to run
-To run the code, simply download and extract the code from github or clone this repository
-Then inside the code folder, open terminal
-in terminal, type `python3 main.py`
-The GUI will be launched.
+- To run the code, simply download and extract the code from github or clone this repository
+- Install `customtkinter` if you don't have it:
+    ```
+    pip install customtkinter
+    ```
+- Then inside the code folder, open terminal
+- In terminal, type `python3 main.py`
+- The GUI will be launched.
 
 # Files
 - `main.py` - File for the initial launching of the application
